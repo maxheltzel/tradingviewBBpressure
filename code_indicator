@@ -1,6 +1,6 @@
 // Max Heltzel's Buy and Sell Volume Pressure
 // Version: 1.15.b2.27.07.2015
-//@version=5
+
 study("Max Heltzel's Buy and Sell Volume Pressure", shorttitle="MRH_BSVP", precision=1)
 
 // Input settings
